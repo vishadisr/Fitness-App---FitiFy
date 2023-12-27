@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fitify2</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="default_notification_channel_id">WaterReminderChannel</string>
+
+</resources>

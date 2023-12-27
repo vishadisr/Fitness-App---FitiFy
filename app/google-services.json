@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9407485750",
+    "project_id": "fitify2-5126c",
+    "storage_bucket": "fitify2-5126c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9407485750:android:4c6e828e2ff5cd28a44597",
+        "android_client_info": {
+          "package_name": "com.vishadi.fitify2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9407485750-1u078m5ch1t3o8klf7cc51k6o8j37lrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishadi.fitify2",
+            "certificate_hash": "9b4828b969afaff4489da71923113f3630768c7b"
+          }
+        },
+        {
+          "client_id": "9407485750-iot28r08gvq8gdq96sm90lhvmohah6or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhEJveQLjfHvH5K3SrDsWPWvI5bLzxi2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9407485750-iot28r08gvq8gdq96sm90lhvmohah6or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
